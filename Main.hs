@@ -1,4 +1,5 @@
--- Lista de Exercícios Beatriz Castro e Caio Oliveira
+-- Lista de Exercícios
+-- Beatriz Castro, RA 0050831811004 / Caio Oliveira, RA 0050831911038
 -- Exercício 2.2
 
 verificaString :: String -> Bool
